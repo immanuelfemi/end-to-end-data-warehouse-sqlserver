@@ -1,4 +1,5 @@
-# End-to-end-data-warehouse-sqlserver
+# 🏗️ Modern Data Warehouse on SQL Server
+
 A complete end-to-end Modern Data Warehouse project built on Microsoft SQL Server, showcasing the design and implementation of a scalable data platform — from raw data ingestion to analytics-ready datasets.
 
 
